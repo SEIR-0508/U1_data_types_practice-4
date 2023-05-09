@@ -14,6 +14,8 @@ console.log(`my favorite song is... ${myFavoriteSong}')
 
 /*
  * Prompt 2:
+
+
  *
  * Declare 3 variables using each of let, const, and var, then console.log each of them
  */
