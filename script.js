@@ -5,6 +5,13 @@
  * Then, using your Literals, console.log "my favorite song is..." with the song's value
  */
 
+let myFavoriteSong = "Happy"
+console.log(`my favorite song is... ${myFavoriteSong}') 
+ 
+
+
+
+
 /*
  * Prompt 2:
  *
